@@ -10,7 +10,7 @@ import SwiftUI
 struct Login: View {
     var body: some View {
         VStack{
-            Text("Users are asked to select their country from a list. This action automatically populates the country code in the subsequent phone number field. ")
+             Text("Users are asked to select their country from a list. This action automatically populates the country code in the subsequent phone number field. ")
         }
         
     }
